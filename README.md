@@ -1,6 +1,6 @@
 <div align="center">
 
-# Desktop Calculator
+# Python Desktop Calculator
 # ✨🧮✨
 
 ### A Clean Python + Tkinter Calculator for Everyday Math
