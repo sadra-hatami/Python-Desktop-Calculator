@@ -19,6 +19,7 @@ A beginner-friendly desktop calculator with a colorful interface, basic arithmet
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-F37626?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Style-Object%20Oriented-4CAF50?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge)
+[![Platform](https://img.shields.io/badge/Platform-Desktop%20%7C%20Surface%20%7C%20Android-0078D6?style=for-the-badge)](https://sadra-hatami.github.io/Mathematics-Toolbox/)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-6f42c1?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
 
