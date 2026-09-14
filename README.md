@@ -196,6 +196,6 @@ Your support encourages more simple educational projects.
 
 <div align="center">
 
-## Designed & Developed with ❤️ for the learner community of Iran and the world by **Sadra Hatami**
+## Designed & Developed with ❤️ for the Developers community of Iran and the world by **Sadra Hatami**
 
 </div>
